@@ -7,7 +7,7 @@ I started coding in high school and I stop to focus more on my major. I graduate
 
 ## Contacts
 
-[https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white](https://www.YeSpaceFeng.dev)
+[<img src="https://img.shields.io/badge/website-1E1E1E?style=for-the-badge&logo=About.me&logoColor=6663FF" alt="badge"/>](https://www.YeSpaceFeng.dev)
 
 ***
 
