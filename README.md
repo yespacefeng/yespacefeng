@@ -19,4 +19,4 @@ I started coding in high school and I stop to focus more on my major. I graduate
 
 ***
 
-![Ye Feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=yespacefeng&show_icons=true&theme=synthwave)
+![Ye Feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=yespacefeng&show_icons=true&theme=cobalt)
