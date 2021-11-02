@@ -3,15 +3,11 @@
 I'm Ye Feng Chen, a full stack software engineer currently located in upstate New York. 
 I started coding in high school and I stop to focus more on my major. I graduated from Stony Brook University with a BS in Technological Systems Management (Project Management) specializing in computer science. I forgot how enjoyable coding could be. After some deliberation, I decided on a career change to become a software engineer. I want to create something that can be used by everyone.
 
-***
-
 ## Contacts
 
 [<img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=6663FF" alt="badge"/>](https://www.linkedin.com/in/yespacefeng/)
 [<img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=6663FF" alt="badge"/>](https://github.com/yespacefeng)
 [<img src="https://img.shields.io/badge/website-1E1E1E?style=for-the-badge&logo=About.me&logoColor=6663FF" alt="badge"/>](https://www.YeSpaceFeng.dev)
-
-***
 
 ## Technical Skills
 
@@ -26,7 +22,5 @@ I started coding in high school and I stop to focus more on my major. I graduate
 
 ### Developer Tools
 <img src="https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=6663FF" alt="badge"/><img src="https://img.shields.io/badge/npm-1E1E1E?style=for-the-badge&logo=npm&logoColor=6663FF" alt="badge"/><img src="https://img.shields.io/badge/Webpack-1E1E1E?style=for-the-badge&logo=Webpack&logoColor=6663FF" alt="badge"/><img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=6663FF" alt="badge"/>
-
-***
 
 ![Ye Feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=yespacefeng&show_icons=true&theme=synthwave)
